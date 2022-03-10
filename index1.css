@@ -40,5 +40,10 @@ header > nav {
     
 
 
-}     
+}  
+footer > p {
+    background-color: black;
+    color: white;
+    font-size: larger;
+}   
 
